@@ -30,6 +30,6 @@
 - Edit GitHub Profile của mình một cách sáng tạo nhất ✨✨✨
 - Điền form nộp bài qua [Link này](https://forms.office.com/r/aCMJ1msqw8) trước __deadline (23h59-08/11/2024)__.
 - Link tới GitHub Profile của các bạn sẽ được BTC chấm điểm và là 1 phần cực kỳ quan trọng quyết định khả năng đi tiếp của bạn trên hành trình TP24 này.
-> Cá Voi xin chân thành cảm ơn sự tham gia nhiệt tình của các bạn và hy vọng các bạn sẽ tạo ra những sản phẩm cực kỳ xịn xò nè!!!
+> Cá Voi xin chân thành cảm ơn sự tham gia nhiệt tình của các bạn và hy vọng các bạn sẽ tạo ra những sản phẩm cực kỳ xịn xò nè!
 
 
