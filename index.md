@@ -1,4 +1,4 @@
-# Bài tập về nhà - Hệ thống #
+![TP24BG](TP24BG.png)
 
 ## Tổng kết ✨
 
