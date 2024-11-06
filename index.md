@@ -2,10 +2,10 @@
 
 ## Tổng kết ✨
 
-> Qua buổi học đầu tiên đầy mới mẻ cùng Cá Voi thì chúng mình đã cùng nhau học được những kiến thức đầy thú vị phải hong nào. Để Cá Voi tóm tắt lại những gì đã học nhé 
+> Qua buổi học đầu tiên đầy mới mẻ cùng Cá Voi thì chúng mình đã cùng nhau học được những kiến thức đầy thú vị phải hong nào. Để mình tóm tắt lại những gì đã học nhé 
 
 - [Record buổi học](https://uithcm.sharepoint.com/:v:/s/TraineeProgram2024/EcGdrtN_rmpOu-mrYZpfVawBhnMkh1_rDqiK8ZPzyd2oMQ?e=u6EwMB)
-- [Mardown Languague](https://www.markdownguide.org/cheat-sheet): Mục đích, Công dụng và Một số cú pháp. 
+- [Markdown Language](https://www.markdownguide.org/cheat-sheet): Mục đích, Công dụng và Một số cú pháp. 
 - [Git, GitHub](https://education.github.com/git-cheat-sheet-education.pdf): Khái niệm, mục đích, một số câu lệnh git cơ bản: git init, git branch, git add, git commit, git push,... trên CLI lẫn GitHub Desktop và thực hành commit lên GitHub repository.
 
 ## Bài tập về nhà 📗📙📘 [Deadline 23h59 - 08/11/2024]
